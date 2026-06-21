@@ -1,4 +1,4 @@
-# Collocations (EMR)
+# Disterbuted Collocation Miner (EMR)
 
 End-to-end MapReduce pipeline that extracts the top-100 collocations per decade
 for Hebrew and English using log-likelihood ratio (LLR). The pipeline runs on
